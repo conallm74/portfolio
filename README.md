@@ -24,5 +24,7 @@ items, and communicated findings to sellers, then assisted sellers in creating e
 
 A comprehensive CRUD MVC application was developed utilizing **Java**, featuring advanced security measures, seamless CRUD operations, and the integration of gRPC and RPCs for efficient communication. This full-stack solution, encompassing both front-end and back-end development, was architected around a microservices framework to ensure scalability and performance. Deployed on AWS, the application delivers a high-performance platform, leveraging the cloud's capabilities to provide a reliable and efficient service.
 
-![Source code] (https://github.com/conallm74/final-year-project-git)
+[Source code] (https://github.com/conallm74/final-year-project-git)
+
+
 
