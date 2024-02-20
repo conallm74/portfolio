@@ -20,7 +20,7 @@ items, and communicated findings to sellers, then assisted sellers in creating e
 
 ## Projects 
 ### Roku - MVC CRUD Admin Tool 
-[Publication](http://katara-env-1asdf.eba-fwmgqsp4.us-east-2.elasticbeanstalk.com/showMyLoginPage) (Access credentials - Username: `Mike`, Password: `cool`)
+[Publilkjcation](http://katara-env-1asdf.eba-fwmgqsp4.us-east-2.elasticbeanstalk.com/showMyLoginPage) (Access credentials - Username: `Mike`, Password: `cool`)
 
 [GitHub Repo](https://github.com/conallm74/MVC-git)
 
