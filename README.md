@@ -21,6 +21,7 @@ items, and communicated findings to sellers, then assisted sellers in creating e
 ## Projects 
 ### Roku - MVC CRUD Admin Tool 
 [Publication](http://katara-env-1asdf.eba-fwmgqsp4.us-east-2.elasticbeanstalk.com/showMyLoginPage) (Access credentials - Username: `Mike`, Password: `cool`)
+(GitHub Repo)[Publication](https://github.com/conallm74/MVC-git)
 
 A comprehensive CRUD MVC application was developed utilizing **Java**, featuring advanced security measures, seamless CRUD operations, and the integration of gRPC and RPCs for efficient communication. This full-stack solution, encompassing both front-end and back-end development, was architected around a microservices framework to ensure scalability and performance. Deployed on AWS, the application delivers a high-performance platform, leveraging the cloud's capabilities to provide a reliable and efficient service.
 
