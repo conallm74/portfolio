@@ -3,9 +3,9 @@
 #### Technical Skills: Java, SQL, AWS, gRPC, HTML, CSS, Spring, Maven, Gradle, Spring Boot. 
 
 ### Education 
-- Higher Diploma., Software Engineering | National College of Ireland
-- Masters of Science., Sport Psychology | University of Limerick
-- B.a., German and Psychology | National University of Ireland Galway
+- Higher Diploma., Software Engineering, National College of Ireland
+- Masters of Science., Sport Psychology, University of Limerick
+- B.a., German and Psychology, National University of Ireland Galway
 
 
 ## Work experience 
